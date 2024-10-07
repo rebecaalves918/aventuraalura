@@ -1,0 +1,11 @@
+body{
+    beckground-color: rgb(242, 171, 183);
+    color: white;
+    font-family: "Bai jamjuree",sans-serif;
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+height: 700px;
+margin: 0;
+
+}
